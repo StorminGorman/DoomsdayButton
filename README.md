@@ -5,3 +5,5 @@ Caroline's Doomsday button
 2. Search for CarolinesButtonSetup in your wifi settings
 3. Connect to your wifi
 4. Push button
+
+https://learn.adafruit.com/adafruit-feather-huzzah-esp8266
